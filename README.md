@@ -8,3 +8,5 @@ Branch and merge test repo
 * this is comment #2 (the second comment)
 
 * this is comment #3 on dev1 (foobar)
+
+* this is comment #4 from test1/dev1
